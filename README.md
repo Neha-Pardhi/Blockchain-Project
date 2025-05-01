@@ -24,5 +24,5 @@ CDAYRGPSVVD6WP5RA5GTLXSHN6RH5JEVRSPRTOD27MKMCQ26FEX7PFOZ
 
 ![alt text](Screenshot 2025-04-25 145242-1.png)
 
-![Description](images/Screenshot%202025-04-25%20145242-1.png)
+![Description](Screenshot%202025-04-25%20145242-1.png)
 
