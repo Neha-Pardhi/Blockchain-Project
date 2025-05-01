@@ -21,5 +21,5 @@ The vision is to **empower creators and innovators** by providing them with a tr
 
 ## Contract details
 CDAYRGPSVVD6WP5RA5GTLXSHN6RH5JEVRSPRTOD27MKMCQ26FEX7PFOZ
-![alt text](proof.png)
 
+![alt](proof.png)
